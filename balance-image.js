@@ -3,6 +3,7 @@
 // @version  1
 // @namespace      https://bitcointalk.org/
 // @include        https://bitcointalk.org/*
+// @exclude        https://bitcointalk.org/index.php?action=post*
 // ==/UserScript==
 
 document.body.innerHTML = document.body.innerHTML.replace( 
